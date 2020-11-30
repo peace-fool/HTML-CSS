@@ -1,0 +1,72 @@
+.top{
+  background-color: #e8ffff;
+  padding: 30px;
+}
+
+.cloud1{
+  position: relative;
+  left: 10%;
+}
+.cloud2{
+  position: absolute;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+h1{
+  width: 20%;
+  margin: 0 auto;
+  font-family: 'Yellowtail', cursive;
+  color: #41aea9;
+}
+h2{
+  color: #41aea9;
+}
+h3{
+  color: #41aea9;
+  position: relative;
+  width: 20%;
+  margin: 0 auto;
+  text-align: center;
+
+}
+p{
+  font-style: italic;
+}
+.par{
+  font-family: 'Noto Serif', serif;
+  color: #41aea9;
+}
+.profile{
+  position: relative;
+}
+.adventure{
+  border-radius: 10%;
+  width: 15%;
+  position: relative;
+  left: 30%;
+}
+.pof{
+  width: 20%;
+  border-radius: 100%;
+}
+.skill-row{
+  position: relative;
+  width: 60%;
+  margin: 0 auto;
+}
+.skill{
+  border-radius: 10%;
+  width: 15%;
+  position: relative;
+  right: 30%;
+}
+hr{
+  width: 20%;
+  border-style: dotted;
+  border-width: 10px;
+  border-top: 20px;
+  border-color: grey;
+}
